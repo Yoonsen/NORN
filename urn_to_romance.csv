@@ -1,0 +1,318 @@
+urn,counts,tag
+URN:NBN:no-nb_digibok_2011111605037,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2007082703001,"Counter({'z': 1, 'x': 1})",z-1#x-1
+URN:NBN:no-nb_digibok_2009100812001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2013110424054,Counter({'x': 1}),x-1
+,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009061912006,Counter({'x': 7}),x-7
+,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2014071606009,"Counter({'z': 1, 'x': 1})",z-1#x-1
+URN:NBN:no-nb_digibok_2008062312002,Counter({'w': 2}),w-2
+URN:NBN:no-nb_digibok_2007091703001,"Counter({'z': 2, 'x': 2})",z-2#x-2
+URN:NBN:no-nb_digibok_2009011512001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009011512001,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2009011512001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008061112002,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digitidsskrift_2014092382073_001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2017020148100,"Counter({'x': 2, 'w': 1, 'x/y': 1})",x-2#w-1#x/y-1
+URN:NBN:no-nb_digibok_2015042027001,Counter({'x': 3}),x-3
+URN:NBN:no-nb_digibok_2020021248500,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2016112129003,"Counter({'x/y': 1, 'x': 1})",x/y-1#x-1
+URN:NBN:no-nb_digibok_2019110448028,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008061112002,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2008061112002,"Counter({'x': 1, 'w': 1})",x-1#w-1
+URN:NBN:no-nb_digibok_2008061112002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008061112002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008061112002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008061112002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008061112002,"Counter({'w': 1, 'x': 1})",w-1#x-1
+URN:NBN:no-nb_digibok_2008061112002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008061112002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008061112002,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2008070202001,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2006082800104,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2017020148100,"Counter({'x': 2, 'x/y': 1})",x-2#x/y-1
+URN:NBN:no-nb_digibok_2019121148002,"Counter({'y': 2, 'w': 1, 'x': 1, 'x/y': 1})",y-2#w-1#x-1#x/y-1
+URN:NBN:no-nb_digibok_2017020148100,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2019121148002,"Counter({'x': 5, 'y': 1, 'x/y': 1})",x-5#y-1#x/y-1
+URN:NBN:no-nb_digibok_2010021603005,"Counter({'z': 1, 'x': 1})",z-1#x-1
+URN:NBN:no-nb_digibok_2008061012003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008103012001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008103012001,"Counter({'x': 5, 'y': 1})",x-5#y-1
+URN:NBN:no-nb_digibok_2009110512007,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2007110600049,"Counter({'x': 2, 'w': 1})",x-2#w-1
+URN:NBN:no-nb_digibok_2008062012003,"Counter({'x': 2, 'w': 1})",x-2#w-1
+URN:NBN:no-nb_digibok_2008103012001,"Counter({'x': 3, 'x/y': 1})",x-3#x/y-1
+URN:NBN:no-nb_digibok_2012062813003,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2015061929001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008103012001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008103012001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008103012001,"Counter({'x': 4, 'x/y': 1})",x-4#x/y-1
+URN:NBN:no-nb_digibok_2008103012001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2012020208027,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2012020208027,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008011112004,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2012062813003,"Counter({'x': 2, 'w/y': 1, 'x/y': 1})",x-2#w/y-1#x/y-1
+URN:NBN:no-nb_digibok_2012062813003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2012062813003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2012062813003,Counter({'x': 4}),x-4
+URN:NBN:no-nb_digibok_2012062813003,"Counter({'x': 5, 'y': 1, 'w/y': 1})",x-5#y-1#w/y-1
+URN:NBN:no-nb_digibok_2010100608041,Counter({'x': 3}),x-3
+URN:NBN:no-nb_digibok_2010100608041,"Counter({'x': 4, 'w': 2})",x-4#w-2
+URN:NBN:no-nb_digibok_2010100608041,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2010100608041,"Counter({'w': 1, 'x': 1})",w-1#x-1
+URN:NBN:no-nb_digibok_2010100608041,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2010100608041,"Counter({'x': 2, 'z': 1})",x-2#z-1
+URN:NBN:no-nb_digibok_2010100608041,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2010100608041,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2010100608041,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2010100608041,"Counter({'w': 3, 'x': 1})",w-3#x-1
+URN:NBN:no-nb_digibok_2010100608041,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2010100608041,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2015012808049,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2017020328002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008111003003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2019020548006,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digitidsskrift_2016060981022_001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2013073108165,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011062708033,Counter({'x': 1}),x-1
+,"Counter({'x': 1, 'w': 1})",x-1#w-1
+URN:NBN:no-nb_digibok_2010111806002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2018010826004,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2018010826004,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2018010826004,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2012061313001,"Counter({'y': 2, 'x/y': 2})",y-2#x/y-2
+URN:NBN:no-nb_digibok_2012061313001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2012061313001,"Counter({'x': 4, 'x/y': 1})",x-4#x/y-1
+URN:NBN:no-nb_digibok_2012061313001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2013080508344,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2016110729002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2017020148100,"Counter({'x': 1, 'z': 1})",x-1#z-1
+URN:NBN:no-nb_digibok_2016110729001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009100812001,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2017050526016,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2012101507055,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2012030524007,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2012030524007,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2012030524007,Counter({'x': 3}),x-3
+URN:NBN:no-nb_digibok_2012030524007,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2012030524007,"Counter({'x': 3, 'w': 1, 'x/y': 1})",x-3#w-1#x/y-1
+URN:NBN:no-nb_digibok_2012030524007,"Counter({'w': 1, 'x': 1})",w-1#x-1
+URN:NBN:no-nb_digibok_2012030524007,"Counter({'x': 3, 'w': 1})",x-3#w-1
+URN:NBN:no-nb_digibok_2012030524007,Counter({'x': 4}),x-4
+URN:NBN:no-nb_digibok_2012030524007,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2012030524007,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2016042929003,"Counter({'x': 4, 'w': 2, 'z': 1})",x-4#w-2#z-1
+URN:NBN:no-nb_digibok_2015042428001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2015042428001,Counter({'x': 3}),x-3
+URN:NBN:no-nb_digibok_2011062708033,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011062708033,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2016052029003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2016052029003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2007072402001,"Counter({'x': 4, 'w': 1, 'z': 1})",x-4#w-1#z-1
+URN:NBN:no-nb_digibok_2017020148100,"Counter({'w': 1, 'x/y': 1})",w-1#x/y-1
+URN:NBN:no-nb_digibok_2017020148100,"Counter({'w': 1, 'x': 1, 'x/y': 1})",w-1#x-1#x/y-1
+URN:NBN:no-nb_digibok_2017020148100,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2017020148100,"Counter({'x': 3, 'w': 1, 'x/y': 1})",x-3#w-1#x/y-1
+URN:NBN:no-nb_digibok_2017020148100,"Counter({'w': 1, 'x/y': 1})",w-1#x/y-1
+URN:NBN:no-nb_digibok_2017020148100,"Counter({'w': 1, 'x': 1, 'x/y': 1})",w-1#x-1#x/y-1
+URN:NBN:no-nb_digibok_2017020148100,"Counter({'x': 1, 'x/y': 1})",x-1#x/y-1
+URN:NBN:no-nb_digibok_2017020148100,"Counter({'x': 1, 'x/y': 1})",x-1#x/y-1
+URN:NBN:no-nb_digibok_2008062012003,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2016072026006,Counter({'x': 1}),x-1
+,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011040508147,Counter({'x': 4}),x-4
+URN:NBN:no-nb_digibok_2011062708033,Counter({'x': 1}),x-1
+,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2017020148100,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2010111806002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2017020148100,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2016100628003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2007072402001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2019110448033,"Counter({'w': 1, 'x': 1})",w-1#x-1
+URN:NBN:no-nb_digibok_2010020412003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008111903007,"Counter({'x': 4, 'w': 2, 'z': 1})",x-4#w-2#z-1
+,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2018021948006,"Counter({'z': 2, 'x': 2})",z-2#x-2
+URN:NBN:no-nb_digibok_2012051805111,"Counter({'w': 1, 'x': 1})",w-1#x-1
+URN:NBN:no-nb_digibok_2011040508147,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2007091202001,"Counter({'w': 5, 'x': 1})",w-5#x-1
+URN:NBN:no-nb_digibok_2011052612004,"Counter({'x': 2, 'w': 1, 'x/y': 1})",x-2#w-1#x/y-1
+URN:NBN:no-nb_digibok_2016110729001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009091403001,Counter({'x': 4}),x-4
+URN:NBN:no-nb_digibok_2021042148829,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2007082903001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008062012003,"Counter({'x': 1, 'w': 1})",x-1#w-1
+URN:NBN:no-nb_digibok_2008061012004,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2008062012003,"Counter({'x': 2, 'z': 1})",x-2#z-1
+URN:NBN:no-nb_digibok_2008062012003,"Counter({'w': 1, 'x': 1})",w-1#x-1
+URN:NBN:no-nb_digibok_2007071903001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011040508147,"Counter({'x': 3, 'z': 1})",x-3#z-1
+URN:NBN:no-nb_digibok_2007091202001,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2007091202001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2007091202001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2021121448574,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008112703011,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008112703011,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008103012001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2017020148100,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2007061502002,Counter({'x': 3}),x-3
+,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2014061108126,"Counter({'y': 2, 'x': 1, 'x/y': 1})",y-2#x-1#x/y-1
+URN:NBN:no-nb_digibok_2008040800072,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2014072108075,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2014072108075,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2014072108075,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2014072108075,"Counter({'x': 5, 'w': 2})",x-5#w-2
+URN:NBN:no-nb_digibok_2014072108075,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2014072108075,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2014072108075,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2012020208016,Counter({'x/y': 1}),x/y-1
+URN:NBN:no-nb_digibok_2010020312007,"Counter({'x': 4, 'w': 2, 'z': 1})",x-4#w-2#z-1
+URN:NBN:no-nb_digibok_2013080508339,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2013080508339,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2013080508339,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008111003003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008111003003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008111003003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008111903017,Counter({'x': 3}),x-3
+URN:NBN:no-nb_digibok_2008111903017,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2014021106017,"Counter({'x': 1, 'w': 1})",x-1#w-1
+URN:NBN:no-nb_digibok_2008063012005,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008111903029,Counter({'x': 1}),x-1
+,Counter({'x': 1}),x-1
+,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2021042848547,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2015060108038,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2019102448003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2010061806033,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2012071305013,"Counter({'x': 3, 'x/y': 1, 'y': 1, 'z': 1})",x-3#x/y-1#y-1#z-1
+URN:NBN:no-nb_digibok_2010061806033,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011061708155,"Counter({'x': 4, 'z': 1})",x-4#z-1
+URN:NBN:no-nb_digibok_2017050348134,"Counter({'x': 2, 'z': 1})",x-2#z-1
+URN:NBN:no-nb_digibok_2008111103001,"Counter({'y': 2, 'x': 1})",y-2#x-1
+URN:NBN:no-nb_digibok_2009062212003,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2008070812002,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2008070812004,Counter({'x': 3}),x-3
+URN:NBN:no-nb_digibok_2014071726003,"Counter({'y': 2, 'x': 1})",y-2#x-1
+URN:NBN:no-nb_digibok_2011061708156,Counter({'x': 4}),x-4
+URN:NBN:no-nb_digibok_2011061708155,"Counter({'x': 3, 'z': 1})",x-3#z-1
+,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2006112200010,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2010021803053,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008111903026,Counter({'x': 3}),x-3
+URN:NBN:no-nb_digibok_2011061708156,"Counter({'x': 5, 'z': 1})",x-5#z-1
+URN:NBN:no-nb_digibok_2008110503010,Counter({'x/y': 1}),x/y-1
+URN:NBN:no-nb_digibok_2008110503010,Counter({'x/y': 1}),x/y-1
+URN:NBN:no-nb_digibok_2008110503010,Counter({'x/y': 1}),x/y-1
+URN:NBN:no-nb_digibok_2010020312008,"Counter({'x': 1, 'w': 1})",x-1#w-1
+URN:NBN:no-nb_digibok_2008040800072,Counter({'x': 1}),x-1
+,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2012042724002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2019112926042,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2018061948502,"Counter({'z': 1, 'x': 1})",z-1#x-1
+URN:NBN:no-nb_digibok_2011061708155,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011062708033,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011040508148,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2009101303010,"Counter({'x': 1, 'x/y': 1, 'z': 1})",x-1#x/y-1#z-1
+URN:NBN:no-nb_digibok_2009101303010,"Counter({'w': 1, 'x': 1, 'x/y': 1})",w-1#x-1#x/y-1
+URN:NBN:no-nb_digibok_2009101303010,"Counter({'x': 1, 'x/y': 1, 'z': 1})",x-1#x/y-1#z-1
+,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009090903009,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2008061012004,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008061012004,"Counter({'x': 2, 'z': 1})",x-2#z-1
+URN:NBN:no-nb_digibok_2008061012004,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009120812002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2017080207028,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011052605099,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2008061012004,"Counter({'x': 3, 'z': 1})",x-3#z-1
+URN:NBN:no-nb_digibok_2009081903003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2021042148807,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2013040824067,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011062708033,"Counter({'x': 1, 'z': 1})",x-1#z-1
+URN:NBN:no-nb_digibok_2018020548260,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2015030308002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2016111748595,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2008071512001,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2008093012001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2015110908267,Counter({'w': 2}),w-2
+URN:NBN:no-nb_digibok_2011061708062,"Counter({'x': 2, 'y': 1})",x-2#y-1
+URN:NBN:no-nb_digibok_2014111408041,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009081303002,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2009081303002,"Counter({'x': 1, 'x/y': 1, 'y': 1})",x-1#x/y-1#y-1
+URN:NBN:no-nb_digibok_2009081303002,"Counter({'x': 1, 'x/y': 1})",x-1#x/y-1
+URN:NBN:no-nb_digibok_2011061708062,"Counter({'x': 4, 'w': 1})",x-4#w-1
+URN:NBN:no-nb_digibok_2020111007102,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2011052605100,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011052605100,"Counter({'x': 1, 'w': 1})",x-1#w-1
+URN:NBN:no-nb_digibok_2009120812001,"Counter({'x': 3, 'x/y': 1, 'z': 1})",x-3#x/y-1#z-1
+URN:NBN:no-nb_digibok_2021042048514,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009120812001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009120812001,"Counter({'z': 1, 'x': 1})",z-1#x-1
+URN:NBN:no-nb_digibok_2009120812001,"Counter({'x/y': 1, 'x': 1})",x/y-1#x-1
+URN:NBN:no-nb_digibok_2009120812001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009120812001,"Counter({'x': 2, 'x/y': 1, 'z': 1})",x-2#x/y-1#z-1
+URN:NBN:no-nb_digibok_2009120812001,"Counter({'x': 3, 'z': 1})",x-3#z-1
+URN:NBN:no-nb_digibok_2009120812001,Counter({'x/y': 1}),x/y-1
+URN:NBN:no-nb_digibok_2009120812001,"Counter({'x': 3, 'x/y': 1, 'z': 1})",x-3#x/y-1#z-1
+URN:NBN:no-nb_digibok_2009120812001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009120812001,Counter({'x/y': 1}),x/y-1
+URN:NBN:no-nb_digibok_2009120812001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008102112004,Counter({'x': 3}),x-3
+URN:NBN:no-nb_digibok_2013073108165,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2006112000041,"Counter({'x': 2, 'w': 2, 'z': 1})",x-2#w-2#z-1
+URN:NBN:no-nb_digibok_2016110448012,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2016110448012,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2016110448012,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2016110448012,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2016110448012,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009061903027,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2017011248034,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2009082103039,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2020040348045,"Counter({'y': 1, 'w': 1, 'z': 1})",y-1#w-1#z-1
+URN:NBN:no-nb_digibok_2006082100022,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2018050848010,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2010052806002,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2017050348134,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2017050348134,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2017050348134,"Counter({'x': 3, 'z': 1})",x-3#z-1
+URN:NBN:no-nb_digibok_2010052806022,Counter(),
+URN:NBN:no-nb_digibok_2010060806087,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2010012110001,Counter(),
+URN:NBN:no-nb_digibok_2007101510009,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2010060806076,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2010060806076,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2015061929001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2015061929001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2015061929001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2013122026001,"Counter({'x': 3, 'w': 2, 'z': 1})",x-3#w-2#z-1
+URN:NBN:no-nb_digibok_2010012210002,"Counter({'x': 2, 'z': 1})",x-2#z-1
+URN:NBN:no-nb_digibok_2013041007028,"Counter({'x': 1, 'x/y': 1})",x-1#x/y-1
+URN:NBN:no-nb_digibok_2013041007028,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2013041007028,"Counter({'x': 1, 'x/y': 1, 'y': 1})",x-1#x/y-1#y-1
+URN:NBN:no-nb_digibok_2006112201000,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2006112201000,"Counter({'x': 1, 'x/y': 1})",x-1#x/y-1
+URN:NBN:no-nb_digibok_2006112201000,"Counter({'x': 1, 'x/y': 1})",x-1#x/y-1
+,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2014061108130,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008102912003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2008102912003,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011091208031,"Counter({'x': 1, 'x/y': 1})",x-1#x/y-1
+URN:NBN:no-nb_digibok_2009072900042,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011051004096,Counter({'x/y': 1}),x/y-1
+URN:NBN:no-nb_digibok_2011051004096,Counter({'w': 1}),w-1
+URN:NBN:no-nb_digibok_2011051004096,"Counter({'w': 1, 'x/y': 1})",w-1#x/y-1
+URN:NBN:no-nb_digibok_2013013007093,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2006082200033,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2014021008009,Counter({'x': 2}),x-2
+URN:NBN:no-nb_digibok_2006081700063,"Counter({'y': 1, 'x': 1})",y-1#x-1
+URN:NBN:no-nb_digibok_2006081700063,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2006081700063,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2017060629001,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2013042608022,Counter({'x/y': 1}),x/y-1
+URN:NBN:no-nb_digibok_2014071624008,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2021082548053,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2021082548053,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2011062708033,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2006112301030,Counter({'x': 1}),x-1
+URN:NBN:no-nb_digibok_2006120501037,Counter({'x': 1}),x-1
