@@ -18,14 +18,14 @@ def main():
     st.write('### Corpus Selection')
     
     # Add your corpus selection logic here
-    
+    col1, col2 = st.columns([1, 4])
     
     corpus_options = corpus_dict.keys()
-    selected_corpus = st.selectbox("Select a Corpus:", corpus_options)
+    selected_corpus = col1.selectbox("Select a Corpus:", corpus_options)
         
     c = load_corpus(corpus_dict[selected_corpus])
 
-    user_input = st.text_input("Input your text:")
+    user_input = col2.text_input("Input your text:")
     if user_input is not "":        
         conc = c.coll(user_input)
         df = conc.frame.sort_values(by="counts", ascending=False)

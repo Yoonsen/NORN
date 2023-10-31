@@ -17,14 +17,16 @@ def main():
     st.title('Konkordanser')
     st.write('### Velg korpus')
     
-    
+    col1, col2 = st.columns([1, 4])
     
     corpus_options = corpus_dict.keys()
-    selected_corpus = st.selectbox("Select a Corpus:", corpus_options)
+    selected_corpus = col1.selectbox("Velg et korpus:", corpus_options)
         
     c = load_corpus(corpus_dict[selected_corpus])
 
-    user_input = st.text_input("Input your text:")
+    user_input = col2.text_input("Input tekst")
+    
+    
     if user_input is not "":        
         conc = c.conc(user_input)
         df = conc.frame
@@ -36,7 +38,7 @@ def main():
         #st.dataframe(df)
     
 
-    st.write('Here will be your concordance search results.')
+    st.write('Konkordanser vises her.')
 
 
 if __name__ == "__main__":
