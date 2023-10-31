@@ -6,6 +6,14 @@ from config import corpus_dict
 
 
 def main():
+    
+    st.set_page_config(
+        layout="wide",
+        page_title="Norn konkordanser",
+        page_icon="📚",
+        initial_sidebar_state="expanded",
+    )
+    
     st.title('Konkordanser')
     st.write('### Velg korpus')
     

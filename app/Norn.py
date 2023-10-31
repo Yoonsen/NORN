@@ -8,6 +8,15 @@ from utils import load_corpus, gh_button
 
 def main():
     
+    st.set_page_config(
+        layout="wide",
+        page_title="Norn korpus",
+        page_icon="📚",
+        initial_sidebar_state="expanded",
+    )
+    
+    
+    
     # Add favicon stylesheet
     st.markdown(
         '<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">',
